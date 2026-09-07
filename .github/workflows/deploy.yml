@@ -7,6 +7,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -15,10 +17,15 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: |
-          rm -rf .git/dist 2>/dev/null || true
+          rm -f .git/dist 2>/dev/null || true
           cp -R dist/* .
+          if [ -f dist/.nojekyll ]; then cp dist/.nojekyll .; fi
+          git config user.name "reganchan"
+          git config user.email "reganchan@hotmail.com"
           git add -A
-          git commit -m "deploy: update github pages" || echo "nothing to commit"
-          git push origin master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          if git diff --cached --quiet 2>/dev/null; then
+            echo "No changes to commit"
+          else
+            git commit -m "deploy: update github pages"
+            git push origin master
+          fi
