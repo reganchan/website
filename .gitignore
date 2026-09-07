@@ -1,0 +1,6 @@
+node_modules
+dist
+
+# Raw Google Takeout export is large; the import script reads from
+# scripts/Timeline.json but it shouldn't be committed.
+scripts/Timeline.json

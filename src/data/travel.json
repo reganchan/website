@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ChIJhQQkbsGydVMRVsdopsKe9D4-2013-07-17",
+    "date": "2013-07-17",
+    "location": "Town of Sylvan Lake",
+    "lat": 52.3075,
+    "lng": -114.098
+  },
+  {
+    "id": "ChIJIe65tT74hlQRVRnoDzNVCZM-2013-08-15",
+    "date": "2013-08-15",
+    "location": "Area D (Elaho/Garibaldi)",
+    "lat": 49.7046,
+    "lng": -123.1466
+  },
+  {
+    "id": "ChIJRxIRRrI8h1QRjEBWcFWR-lc-2013-08-15",
+    "date": "2013-08-15",
+    "location": "Whistler",
+    "lat": 50.1188,
+    "lng": -122.955
+  },
+  {
+    "id": "ChIJO-P4fxh1glQR3AhR7ClGQmM-2013-10-26",
+    "date": "2013-10-26",
+    "location": "West Kelowna",
+    "lat": 49.8112,
+    "lng": -119.6239
+  },
+  {
+    "id": "ChIJwSQWSKb0fVMRqKdOoI0JV3k-2013-10-27",
+    "date": "2013-10-27",
+    "location": "Kelowna",
+    "lat": 49.888,
+    "lng": -119.4961
+  },
+  {
+    "id": "ChIJi07I2QQKlVQRavtJ4heXZk4-2013-10-29",
+    "date": "2013-10-29",
+    "location": "Portland",
+    "lat": 45.5186,
+    "lng": -122.681
+  },
+  {
+    "id": "ChIJ_cmQxYoUkFQRzTkff6iaoFw-2013-10-29",
+    "date": "2013-10-29",
+    "location": "Seattle",
+    "lat": 47.6615,
+    "lng": -122.3145
+  },
+  {
+    "id": "ChIJg-JT6OJThVQR3UgpekWtBOs-2013-10-30",
+    "date": "2013-10-30",
+    "location": "Quil Ceda Village",
+    "lat": 48.0943,
+    "lng": -122.1892
+  },
+  {
+    "id": "ChIJUSRdnaikhVQRvPOMeVkvR8s-2013-12-07",
+    "date": "2013-12-07",
+    "location": "Bellingham",
+    "lat": 48.7923,
+    "lng": -122.5153
+  },
+  {
+    "id": "ChIJqyWECea1j4ARDwZb5yaJCAQ-2014-01-22",
+    "date": "2014-01-22",
+    "location": "Sunnyvale",
+    "lat": 37.3527,
+    "lng": -122.002
+  },
+  {
+    "id": "ChIJkTeUJ7vMj4ARXZyxTRC6iOc-2014-01-22",
+    "date": "2014-01-22",
+    "location": "San Jose",
+    "lat": 37.3325,
+    "lng": -121.8898
+  },
+  {
+    "id": "ChIJEQi36PC1j4ARQrd2s6KHSf4-2014-01-22",
+    "date": "2014-01-22",
+    "location": "Santa Clara",
+    "lat": 37.3526,
+    "lng": -122.0003
+  },
+  {
+    "id": "ChIJQ64JF_y5j4ARjgz1xaIZMkI-2014-01-23",
+    "date": "2014-01-23",
+    "location": "Mountain View",
+    "lat": 37.4212,
+    "lng": -122.0773
+  },
+  {
+    "id": "ChIJVVVVVYx3j4ARP-3NGldc8qQ-2014-01-23",
+    "date": "2014-01-23",
+    "location": "San Mateo County",
+    "lat": 37.6198,
+    "lng": -122.3809
+  },
+  {
+    "id": "ChIJNVeBt_-efVMRzAA5aCq3VRY-2014-02-08",
+    "date": "2014-02-08",
+    "location": "Area E (Beaverdell/West Boundary)",
+    "lat": 49.7216,
+    "lng": -118.9266
+  },
+  {
+    "id": "ChIJUS1vhpB0j1QRGthXOudsh9w-2014-08-03",
+    "date": "2014-08-03",
+    "location": "Victoria",
+    "lat": 48.423,
+    "lng": -123.3678
+  },
+  {
+    "id": "ChIJvzOu-Blsj1QRBKwRKIb3mW8-2014-08-03",
+    "date": "2014-08-03",
+    "location": "Central Saanich",
+    "lat": 48.5636,
+    "lng": -123.4706
+  },
+  {
+    "id": "ChIJncZGzPPiAzQRnjaSGIKQ9fk-2015-05-22",
+    "date": "2015-05-22",
+    "location": "Hong Kong",
+    "lat": 22.308,
+    "lng": 113.9185
+  },
+  {
+    "id": "ChIJ2XKv2LIIAWARcN_URhWO2n8-2015-06-01",
+    "date": "2015-06-01",
+    "location": "Kyoto",
+    "lat": 34.9833,
+    "lng": 135.7639
+  },
+  {
+    "id": "ChIJnfYc8644hFQRXbrMTd2wXhc-2016-09-03",
+    "date": "2016-09-03",
+    "location": "Chilliwack",
+    "lat": 49.1463,
+    "lng": -122.0081
+  },
+  {
+    "id": "ChIJy_c0DrZdgVQRGH230VqZH-c-2016-09-03",
+    "date": "2016-09-03",
+    "location": "Area A (Boston Bar/North Bend/Canyon Alpine)",
+    "lat": 49.7835,
+    "lng": -121.4474
+  },
+  {
+    "id": "ChIJUyKmZUhDkFQR_aWz_ct20m0-2016-09-21",
+    "date": "2016-09-21",
+    "location": "SeaTac",
+    "lat": 47.4614,
+    "lng": -122.2935
+  },
+  {
+    "id": "ChIJtU-yE9KwwoAR8a2LaVd7qHc-2016-10-09",
+    "date": "2016-10-09",
+    "location": "Los Angeles",
+    "lat": 33.9416,
+    "lng": -118.4085
+  },
+  {
+    "id": "ChIJlYb13N3X3IARSBN4EcYkK7I-2016-10-09",
+    "date": "2016-10-09",
+    "location": "Anaheim",
+    "lat": 33.8006,
+    "lng": -117.9183
+  },
+  {
+    "id": "ChIJ8xsjntZz3IAR2PcwE3R1vB4-2016-10-10",
+    "date": "2016-10-10",
+    "location": "Carlsbad",
+    "lat": 33.1262,
+    "lng": -117.3105
+  },
+  {
+    "id": "ChIJd-tZsWCq3oAR_sO70namuLg-2016-10-10",
+    "date": "2016-10-10",
+    "location": "San Diego",
+    "lat": 32.7648,
+    "lng": -117.2266
+  },
+  {
+    "id": "ChIJzzgyJU--woARcZqceSdQ3dM-2016-10-13",
+    "date": "2016-10-13",
+    "location": "Los Angeles County",
+    "lat": 34.1381,
+    "lng": -118.3534
+  },
+  {
+    "id": "ChIJ1RXSYsCfQjQRCbG1qZC2o3A-2018-04-11",
+    "date": "2018-04-11",
+    "location": "Taoyuan City",
+    "lat": 25.0797,
+    "lng": 121.2342
+  },
+  {
+    "id": "ChIJ6cxPB22pQjQRLik_97hS8Ow-2018-04-11",
+    "date": "2018-04-11",
+    "location": "Taipei",
+    "lat": 25.0491,
+    "lng": 121.5147
+  },
+  {
+    "id": "ChIJj1Oc30n6ZzQR0XyW4zlJgLo-2018-04-11",
+    "date": "2018-04-11",
+    "location": "Jiaoxi Township",
+    "lat": 24.8288,
+    "lng": 121.7725
+  },
+  {
+    "id": "ChIJ1ZrmCnZMXTQRV2jCWjAX0eQ-2018-04-13",
+    "date": "2018-04-13",
+    "location": "New Taipei",
+    "lat": 25.2064,
+    "lng": 121.6905
+  },
+  {
+    "id": "ChIJBXLgwuk1aDQRuu4aKYS0jF4-2018-04-14",
+    "date": "2018-04-14",
+    "location": "Hsinchu",
+    "lat": 24.8016,
+    "lng": 120.9716
+  },
+  {
+    "id": "ChIJAVufNwe6j4AR8LtqSvHRjek-2018-07-23",
+    "date": "2018-07-23",
+    "location": "Palo Alto",
+    "lat": 37.4238,
+    "lng": -122.0984
+  },
+  {
+    "id": "ChIJR7RcPs7FyIAROAHQry50Wgs-2019-03-03",
+    "date": "2019-03-03",
+    "location": "Clark County",
+    "lat": 36.0955,
+    "lng": -115.1761
+  },
+  {
+    "id": "ChIJMSM7bHWVzoARUCzFLk8UoKw-2019-03-05",
+    "date": "2019-03-05",
+    "location": "Mohave County",
+    "lat": 35.7054,
+    "lng": -114.4787
+  },
+  {
+    "id": "ChIJK0N3NakTzIAR5KnZMl6T5wA-2019-03-05",
+    "date": "2019-03-05",
+    "location": "Mohave County",
+    "lat": 36.012,
+    "lng": -113.8112
+  },
+  {
+    "id": "ChIJexYwFYkNzIARAJ-xmFrY53k-2019-03-05",
+    "date": "2019-03-05",
+    "location": "Mohave County",
+    "lat": 36.0331,
+    "lng": -113.8248
+  },
+  {
+    "id": "ChIJ55ehwHUTzIARwdY5Jb4jY2g-2019-03-05",
+    "date": "2019-03-05",
+    "location": "Mohave County",
+    "lat": 35.9648,
+    "lng": -113.8091
+  },
+  {
+    "id": "ChIJHeMm52G1hVQR8vmdAEhovKQ-2022-05-22",
+    "date": "2022-05-22",
+    "location": "Abbotsford",
+    "lat": 49.0239,
+    "lng": -122.3642
+  },
+  {
+    "id": "ChIJwxYO7YWAhYARm92MaRyuF3I-2023-02-07",
+    "date": "2023-02-07",
+    "location": "San Francisco",
+    "lat": 37.7849,
+    "lng": -122.408
+  },
+  {
+    "id": "ChIJK8K_xD5FhVQRWI-Q0rgoN28-2023-05-27",
+    "date": "2023-05-27",
+    "location": "Snohomish County",
+    "lat": 48.2145,
+    "lng": -122.1842
+  },
+  {
+    "id": "ChIJ39hwQ4pnj1QRcSXVQD4K1PU-2023-06-19",
+    "date": "2023-06-19",
+    "location": "North Saanich",
+    "lat": 48.6852,
+    "lng": -123.4101
+  },
+  {
+    "id": "ChIJ0ejdF8j1g1QRS9ZAChVrYlQ-2025-06-29",
+    "date": "2025-06-29",
+    "location": "Hope",
+    "lat": 49.3784,
+    "lng": -121.4435
+  },
+  {
+    "id": "ChIJ2SGCShaRgVQRD8-o5RUEcUI-2025-06-29",
+    "date": "2025-06-29",
+    "location": "Merritt",
+    "lat": 50.1244,
+    "lng": -120.7502
+  },
+  {
+    "id": "ChIJ6ezBMosrflMRF0-hh9xbMus-2025-06-29",
+    "date": "2025-06-29",
+    "location": "Kamloops",
+    "lat": 50.6429,
+    "lng": -120.3811
+  }
+]
