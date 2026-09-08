@@ -23,7 +23,7 @@ export function About() {
             distributed systems, and has interest in deployment of LLMs and image/video generators
           </p>
           <p className="muted">
-            Experienced with: Python, Golang. Ruby. 
+            Proficient with: Python, Golang. Ruby. 
           </p>
           <p className="muted">
             Also knows: Java, C++, Typescript
