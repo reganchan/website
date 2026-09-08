@@ -16,16 +16,4 @@ jobs:
           node-version: 20
       - run: npm ci
       - run: npm run build
-      - run: |
-          rm -f .git/dist 2>/dev/null || true
-          cp -R dist/* .
-          if [ -f dist/.nojekyll ]; then cp dist/.nojekyll .; fi
-          git config user.name "reganchan"
-          git config user.email "reganchan@hotmail.com"
-          git add -A
-          if git diff --cached --quiet 2>/dev/null; then
-            echo "No changes to commit"
-          else
-            git commit -m "deploy: update github pages"
-            git push origin master
-          fi
+      - run: npx gh-pages -d dist

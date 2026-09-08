@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
+    "@types/node": "^26.5.0",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
     "@types/topojson-client": "^3.1.5",

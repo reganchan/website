@@ -4,7 +4,7 @@ export function About() {
       <div className="about-grid">
         <div className="portrait-wrap">
           <img
-            src="/images/bio.jpg"
+            src="./images/bio.jpg"
             alt="Portrait"
             className="portrait"
             onError={(event) => {
