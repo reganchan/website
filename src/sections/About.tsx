@@ -3,7 +3,7 @@ export function About() {
     <section id="about" className="section about-section">
       <div className="about-grid">
         <div className="portrait-wrap">
-<img
+          <img
               src="/images/bio.jpg"
               alt="Portrait"
               className="portrait"
@@ -11,7 +11,6 @@ export function About() {
                 event.currentTarget.style.display = "none";
                 event.currentTarget.parentElement?.classList.add("portrait-placeholder");
               }}
-/>
           />
           <span className="portrait-fallback">your photo</span>
         </div>
